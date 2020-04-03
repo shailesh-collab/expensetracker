@@ -8,6 +8,7 @@ public class ExpensetrackerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExpensetrackerApplication.class, args);
+		System.out.println("Sateesh test");
 	}
 
 }
